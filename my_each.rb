@@ -8,7 +8,7 @@ def my_each (array)# put argument(s) here
   
 end
 array
-  
+end
   # code here
   
   collection = [1, 2, 3, 4]
